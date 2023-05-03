@@ -29,6 +29,7 @@ Update Book
     </option>
     <%}%>
   </select>
+  <input type="file" name="profilePic"><br>
   <input type="submit" value="update">
 </form>
 </body>

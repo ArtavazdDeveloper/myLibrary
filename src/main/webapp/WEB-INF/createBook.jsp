@@ -25,6 +25,8 @@ Create Book
     <option value="<%=author.getId()%>"><%=author.getName()%> <%=author.getSurname()%></option>
     <%}%>
   </select>
+  Image:
+  <input type="file" name="profilePic"><br>
   <input type="submit" value="create">
 </form>
 </body>
